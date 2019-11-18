@@ -9,3 +9,6 @@ TBOOBG.MED: The Ballad of One Bad Ghost by Deadline https://www.youtube.com/watc
 
 acn-strikes-d.med: ACN Strikes by Deadline https://www.youtube.com/watch?v=TBegf5C_eOQ
 
+Frustration.med: Frustration by Maniac https://www.youtube.com/watch?v=LNoIKRKOs9M
+
+OnTheEdge.med: On The Edge by Maniac https://www.youtube.com/watch?v=DQPj750Oasc
