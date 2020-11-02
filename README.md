@@ -1,3 +1,5 @@
+# 🌆🅲🅸🆃🆈🆇🅴🅽☯️ 8 & 16 bit hijinx and programming!
+
 # The Lost Mods
 
 These MODS were created on an Amiga 500 using OctaMED back in the 90's.
